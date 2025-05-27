@@ -52,4 +52,5 @@
 ## 📄 발표 자료
 
 발표 자료(ppt)를 확인할 수 있습니다:
-[📕 발표 자료 보 (PDF)](./team6-bankingweb-ppt.pdf)
+
+[📕 발표 자료 보기 (PDF)](./team6-bankingweb-ppt.pdf)
